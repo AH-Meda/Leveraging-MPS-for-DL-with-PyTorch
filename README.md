@@ -1,6 +1,6 @@
 # Leveraging MPS for Deep Learning with PyTorch Framework
 
-While NVIDIA CUDA has long been favored for deep learning tasks due to its exceptional performance, Mac users often encounter hardware limitations when running complex models. However, with the introduction of Metal Performance Shaders (MPS) on Apple devices, users can now harness the power of GPU acceleration for their deep learning tasks. All we have to do set up the enviroment, install pytorch to the environment and verfify the installation. 
+While NVIDIA CUDA has long been favored for deep learning tasks due to its exceptional performance, Mac users often encounter hardware limitations when running complex models. However, with the introduction of Metal Performance Shaders (MPS) on Apple devices, users can now harness the power of GPU acceleration for their deep learning tasks. All we have to do is set up the environment, install Pytorch to the environment, and verify the installation. 
 
 ## Environment Setup
 
